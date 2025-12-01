@@ -1,12 +1,9 @@
-# Button_LED  
-
-BRIEF:
-
+# PUSH BUTTON - LED
 Arduino Code to turn on an LED using a Push-Button (pull-up)
 
 -----
 
-HARDWARE
+### HARDWARE
 
 - ARDUINO UNO
 - Push-button
@@ -15,7 +12,7 @@ HARDWARE
 
 -----
 
-WIRING
+### WIRING
 
 Arduino Data Pin ----- Resistor ----- LED(+)
 
@@ -27,14 +24,12 @@ Arduino GND ----- Push Button
 
 -----
 
-FURTHER LEARNING
+### FURTHER LEARNING
 
-Push-Button more tutorials: 
-https://arduinofactory.com/push-button/
+[Push-Button more tutorials](https://arduinofactory.com/push-button/)
 
-Understanfing Pull-up and Pull-Down:
-https://roboticsbackend.com/arduino-input_pullup-pinmode/
 
-How to connect a push button or switch:
-https://lab.arts.ac.uk/books/physical-computing/page/how-to-connect-a-push-button-or-switch
+[Understanfing Pull-up and Pull-Down](https://roboticsbackend.com/arduino-input_pullup-pinmode/)
+
+[How to connect a push button or switch](https://lab.arts.ac.uk/books/physical-computing/page/how-to-connect-a-push-button-or-switch)
 
