@@ -43,7 +43,7 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
       
 **EXAMPLE 2: EDGE DETECTION**
 
-- Upload [this code] to your Arduino board.
+- Upload [this code](https://github.com/kingston-hackSpace/Push-button/blob/main/edge_Detection.ino) to your Arduino board.
 
 - Here, we are no longer interested in “Is the button pressed?”. Instead, we ask “Did something just happen?”
 
