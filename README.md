@@ -1,12 +1,6 @@
-# PUSH BUTTON - LED
-Turn on an LED using a Push-Button (pull-up) and Arduino.
-
------
-# SETTING UP BEFORE STARTING
+# PUSH BUTTON
 
 [Understanding push buttons](https://github.com/kingston-hackSpace/Button_LED/blob/main/PushButton.png)
-
-[Understanding LEDs](https://github.com/kingston-hackSpace/Button_LED/blob/main/Understanding_LEDs.png)
 
 -----
 ### HARDWARE
@@ -14,21 +8,22 @@ Turn on an LED using a Push-Button (pull-up) and Arduino.
 - ARDUINO UNO
 - Push-button
 - LED
-- Resistor 220ohms
+- Resistor 220 ohms
+- Resistor 10K ohms
 
 -----
 
-### WIRING
+### LED WIRING
 
-See diagram [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
-
-Remember that LEDs have a positive and negative pin. You may burn the LED if wired incorrectly. See [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Understanding_LEDs.png)
+Remember that LEDs have a positive and negative lead. You may burn the LED if wired incorrectly. See [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Understanding_LEDs.png)
 
 -----
 
 ### PROGRAMMING THE PUSH-BUTTON
 
 **STEP 1: SIMPLE BUTTON STATE (LOW/HIGH)**
+
+- See wiring diagram [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
 
 - Upload [this code](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino) to your Arduino Board
 
