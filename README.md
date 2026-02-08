@@ -39,7 +39,7 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
  
 - This *buttonState* logic works for simple interactions such as this one, in which the LED is following exactly the behaviour of the button.
 
-- However, it is not suitable for counters, or more complex escenarios such as event-based actions. In the next example, you will explore *edge-detection*, where a button-press becomes a single, clean event rather than a continuous signal.
+- However, it is not suitable for counters, or more complex escenarios such as event-based actions. 
       
 **EXAMPLE 2: EDGE DETECTION**
 
