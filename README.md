@@ -43,11 +43,19 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
       
 **EXAMPLE 2: EDGE DETECTION**
 
-- Use the same wiring as before.
-
 - Upload [this code] to your Arduino board.
 
 - Here, we are no longer interested in “Is the button pressed?”. Instead, we ask “Did something just happen?”
+
+**EXAMPLE 3: COUNTER**
+
+- In this example, you will create a counter based on edge detection.
+
+- Upload [this code] to your Arduino board.
+
+- Do you get multiple counts when pressing the button? You need to debounce!
+
+**EXAMPLE 4: DEBOUNCING**
 
 
 **EXAMPLE 3: DEBOUNCING**
