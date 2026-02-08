@@ -43,7 +43,9 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
       
 **EXAMPLE 2: EDGE DETECTION**
 
-- Follow [this tutorial](https://electricalportail.blogspot.com/2016/07/tutorial-09-button-state-change.html)
+- Use the same wiring as before.
+
+- Upload [this code] to your Arduino board.
 
 - Here, we are no longer interested in “Is the button pressed?”. Instead, we ask “Did something just happen?”
 
